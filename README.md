@@ -6,31 +6,31 @@ This project is a cutting-edge real-time object detection application that combi
 ### 1. Real-Time Object Detection
 The app uses YOLOv8, one of the most advanced deep learning models for object detection, to identify and classify objects in real time. Whether it's detecting everyday items or custom objects, the app offers high accuracy and speed.
 
-2. GPU/CPU Processing Toggle
+### 2. GPU/CPU Processing Toggle
 With a simple button in the interface, users can switch between GPU and CPU processing. This feature allows users to optimize performance based on their device's hardware capabilities or power consumption requirements.
 
-3. Powered by TensorFlow Lite
+### 3. Powered by TensorFlow Lite
 The integration of TensorFlow Lite ensures that the app runs efficiently on mobile devices, leveraging optimized model inference for real-time applications.
 
-4. Modern and Intuitive Interface
+### 4. Modern and Intuitive Interface
 The application's design prioritizes simplicity and functionality, with a clean interface that makes it easy for users to view detections and interact with the settings.
 
-5. Customizable for Various Use Cases
+### 5. Customizable for Various Use Cases
 The app can be easily adapted to work with custom-trained YOLOv8 models, making it suitable for diverse use cases such as inventory management, object counting, or security monitoring.
 
-How It Works:
+## How It Works:
 
 Model Integration: The YOLOv8 model is converted to TensorFlow Lite format for optimized deployment.
 Real-Time Video Processing: The app captures frames from the device camera and runs object detection on each frame.
 Performance Optimization: Users can toggle between GPU and CPU processing depending on their device capabilities.
 
-Example Use Cases:
+## Example Use Cases:
 
 Education: Teach students about object detection technology.
 Retail: Monitor shelves for inventory management.
 Personal Projects: Explore machine learning applications in daily life.
 
-Getting Started:
+## Getting Started:
 
 Clone the repository to your local machine.
 Open the project in Android Studio.
