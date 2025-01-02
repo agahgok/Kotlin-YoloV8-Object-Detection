@@ -39,5 +39,5 @@ Toggle GPU usage via the button for optimal performance.
 This project demonstrates the powerful combination of Kotlin, YOLOv8, and TensorFlow Lite, providing a framework for mobile developers interested in building real-time machine learning applications. Feel free to fork the project, experiment with new models, or contribute to its development!
 
 
+![image](https://github.com/user-attachments/assets/d722e461-0e9d-46cd-b519-cbfdb43c2555)
 
-![image](https://github.com/user-attachments/assets/28701089-47a0-42b3-8a86-8babf41cce30)
