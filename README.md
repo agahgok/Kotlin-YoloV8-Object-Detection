@@ -2,8 +2,8 @@
 
 This project is a cutting-edge real-time object detection application that combines the power of YOLOv8 and TensorFlow Lite for seamless performance on mobile devices. Built with Kotlin, the app leverages modern Android development principles to deliver a robust, user-friendly experience.
 
-Key Features:
-1. Real-Time Object Detection
+## Key Features:
+### 1. Real-Time Object Detection
 The app uses YOLOv8, one of the most advanced deep learning models for object detection, to identify and classify objects in real time. Whether it's detecting everyday items or custom objects, the app offers high accuracy and speed.
 
 2. GPU/CPU Processing Toggle
@@ -41,4 +41,3 @@ This project demonstrates the powerful combination of Kotlin, YOLOv8, and Tensor
 
 
 ![image](https://github.com/user-attachments/assets/28701089-47a0-42b3-8a86-8babf41cce30)
->>>>>>> 2fde0cc05de4a2523faecd87be251d73bc02ff71
